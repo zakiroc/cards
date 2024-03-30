@@ -1,0 +1,149 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+.img-2{
+    width: 400px;
+    margin-right: 0px;
+    margin-top: 100px;
+    
+}
+nav{
+    list-style-type: none;
+   
+}
+ul,li,a{
+    text-decoration: none;
+    list-style-type: none;
+  
+}
+
+   .a-1{
+  position: absolute;
+  margin-left: 720px;
+  margin-top: -40px;
+  font-size: 25px;
+  color: black;
+  text-shadow: 4px 4px 2px rgba(183,16,233,0.6);
+  font-family: "Roboto Mono", monospace;
+  
+   }
+
+.row-1{
+    display: flex;
+    gap: 64px;
+}
+.container{
+    margin: 0 auto;
+    width: 80%;
+}
+.row-11{
+    display: flex;
+    gap: 97px;
+}
+.card-1{
+ margin-left: 500px;
+ margin-top: -370px;
+    width: 160px;
+    height: 160px;
+    background-color: white;
+    box-shadow: 0px 8px 24px 0px #2FC63C;
+    position: relative;
+
+  
+}
+.card-2{
+ 
+    width: 160px;
+    height: 160px;
+    background-color: white;
+    margin-top: -370px;
+    box-shadow: 0px 7px 29px 0px #64646F33;
+
+}
+
+.card-3{
+ 
+    width: 160px;
+    height: 160px;
+    background-color: white;
+    margin-top: -370px;
+    box-shadow: 1.9500000476837158px 1.9500000476837158px 2.5999999046325684px 0px #00000026;
+
+}
+.card-4{
+ 
+    width: 160px;
+    height: 160px;
+    background-color: white;
+    margin-left: 500px;
+    margin-top: -170px;
+    box-shadow: 0px 5px 15px 0px #00000059;
+
+  
+}
+.card-5{
+ 
+    width: 160px;
+    height: 160px;
+    background-color: white;
+    margin-top: -170px;
+    box-shadow: 0px 1px 4px 0px #000000AB;
+
+  
+}
+.card-6{
+ 
+    width: 160px;
+    height: 160px;
+    background-color: white;
+    margin-top: -170px;
+    box-shadow: 0px 3px 8px 0px #FF0000;
+
+  
+}
+.row-22{
+    display: flex;
+    gap: 97px;
+}
+
+
+
+.card-7{
+ 
+    width: 160px;
+    height: 160px;
+    background-color: white;
+    box-shadow: 0px 8px 24px 0px #007FFDEB;
+
+  
+}
+.card-8{
+ 
+    width: 160px;
+    height: 160px;
+    background-color: white;
+    box-shadow: 0px 7px 36px 0px #64646FA8;
+
+   
+   
+}
+
+    .card-9{
+ 
+        width: 160px;
+        height: 160px;
+        background-color: white;
+        box-shadow: 1.9500000476837158px 1.9500000476837158px 2.5999999046325684px 0px #00000026;
+
+        
+    }
+    .row-33{
+        display: flex;
+        gap: 97px;
+        margin-left: 500px;
+        margin-top: 20px;
+    }
+   
+
+
+    
